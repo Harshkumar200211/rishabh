@@ -1,0 +1,13 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 40px;
+    color: blueviolet;
+    text-align: center;
+    font-family: inherit;
+    font-weight: bolder;
+}
